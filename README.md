@@ -1,31 +1,52 @@
-- # NatDev - GitHub & Projets
+# 👨‍💻 NatDev - GitHub Profile
 
-Bienvenue sur **NatDev**, l'espace GitHub où je partage mes projets et explorations en développement ! 🚀
+Bienvenue sur mon GitHub ! Ici, je partage mes projets, mes expériences en développement et mes contributions open source. 🚀
 
-## 📌 À propos de NatDev
-NatDev est une plateforme dédiée aux passionnés de programmation et de technologies. Que tu sois débutant ou développeur confirmé, tu trouveras ici des ressources utiles et des projets inspirants.
+---
 
-## 📂 Contenu du GitHub
-✅ Projets open source en développement  
-✅ Outils et scripts utiles  
-✅ Expérimentations et tests de technologies  
-✅ Contributions à des projets collaboratifs  
+## 🔥 À propos de moi
+👋 Je suis NatDev, passionné d'informatique et de développement. J'explore différentes technologies et je partage mes projets avec la communauté.
 
-## 🚀 Comment contribuer ?
+### 🛠️ Compétences Techniques
+- **Langages** : SQL, Python, HTML, CSS
+
+---
+
+## 📂 Projets Open Source
+✅ Développement d'applications web et mobiles  
+✅ Outils et scripts pour automatisation  
+✅ Contributions à des projets open source  
+✅ Expériences et tests de nouvelles technologies  
+
+🌟 N'hésite pas à explorer mes repos et à contribuer !
+
+---
+
+## 📊 Statistiques GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NatDev&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=NatDev&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatDev&layout=compact&theme=radical)  
+
+---
+
+## 🚀 Comment Contribuer ?
 Tu peux aider en :
 - Forkant et améliorant les projets existants.
 - Suggérant des idées et des optimisations via les issues.
 - Participant aux discussions et échanges techniques.
 - Proposant des pull requests avec des corrections ou nouvelles fonctionnalités.
 
-## 🌐 Rejoindre la communauté
-📢 **Discord** : Rejoins le serveur pour discuter, partager tes idées et collaborer.  
-📺 **YouTube** : Abonne-toi pour suivre les vidéos tech et les projets en direct.  
-🔗 **GitHub** : Suis les développements et explore les dépôts disponibles.
+---
+
+## 🌐 Rejoindre la Communauté
+📢 **Discord** : Rejoins mon serveur pour discuter et collaborer.  
+📺 **YouTube** : Abonne-toi pour suivre mes projets en direct.  
+🔗 **GitHub** : Explore mes dépôts et suis les mises à jour.
+
+---
 
 ## 📧 Contact
-📩 Pour toute question ou collaboration, n'hésite pas à me contacter via **GitHub** ou **Discord**.
+📩 Pour toute question ou collaboration, contacte-moi via **GitHub** ou **Discord**.
 
-💡 **NatDev, c'est plus qu'un dépôt, c'est une aventure tech !**
-
+💡 **NatDev, c'est plus qu'un dépôt, c'est une aventure tech !** 🚀
 
