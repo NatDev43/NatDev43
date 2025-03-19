@@ -23,9 +23,15 @@ Bienvenue sur mon GitHub ! Ici, je partage mes projets, mes expériences en dév
 ---
 
 ## 📊 Statistiques GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NatDev&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=NatDev&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatDev&layout=compact&theme=radical)  
+
+![NatDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NatDev&show_icons=true&theme=dark&count_private=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=NatDev&theme=dark&hide_border=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatDev&layout=compact&theme=dark&langs_count=8)  
+
+### 🚀 Autres Stats
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NatDev&theme=github-dark)  
+![Profile Views](https://komarev.com/ghpvc/?username=NatDev&label=Vues%20du%20profil&color=blue&style=flat)  
+  
 
 ---
 
