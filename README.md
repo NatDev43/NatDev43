@@ -8,10 +8,7 @@ Bienvenue sur mon GitHub ! Ici, je partage mes projets, mes expériences en dév
 👋 Je suis NatDev, passionné d'informatique et de développement. J'explore différentes technologies et je partage mes projets avec la communauté.
 
 ### 🛠️ Compétences Techniques
-- **Langages** : JavaScript, TypeScript, Python, C#, PHP, SQL
-- **Frameworks & Outils** : React, Next.js, Supabase, Firebase, TailwindCSS, Framer Motion, Unity, PyTorch
-- **Bases de données** : MySQL, PostgreSQL, SQLite
-- **Autres** : Git, API REST, Web Scraping, Automatisation
+- **Langages** : Python, SQL, HTML5, CSS3
 
 ---
 
